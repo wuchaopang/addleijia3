@@ -10,3 +10,18 @@ import Foundation
 
 print("Hello, World!")
 
+let b=1
+let j=2
+let  i:Int=1
+var  m:Int=0
+
+let dge=b-j
+print(dge)
+for i in 1...100
+{
+    m=m+i
+    
+}
+
+print(m)
+
